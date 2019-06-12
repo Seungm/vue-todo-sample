@@ -1,4 +1,6 @@
-# vue-todo-sample
+# Vue-todo-sample
+
+Todo-list sample using Vuejs
 
 ## Project setup
 ```
